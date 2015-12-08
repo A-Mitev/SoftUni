@@ -1,0 +1,6 @@
+C:\Users\S\Documents\Visual Studio 2013\Projects\ConditionalStatements\08DigitAsWord\bin\Debug\08DigitAsWord.exe.config
+C:\Users\S\Documents\Visual Studio 2013\Projects\ConditionalStatements\08DigitAsWord\obj\Debug\08DigitAsWord.csprojResolveAssemblyReference.cache
+C:\Users\S\Documents\Visual Studio 2013\Projects\ConditionalStatements\08DigitAsWord\bin\Debug\08DigitAsWord.exe
+C:\Users\S\Documents\Visual Studio 2013\Projects\ConditionalStatements\08DigitAsWord\bin\Debug\08DigitAsWord.pdb
+C:\Users\S\Documents\Visual Studio 2013\Projects\ConditionalStatements\08DigitAsWord\obj\Debug\08DigitAsWord.exe
+C:\Users\S\Documents\Visual Studio 2013\Projects\ConditionalStatements\08DigitAsWord\obj\Debug\08DigitAsWord.pdb
